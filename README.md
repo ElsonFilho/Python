@@ -8,14 +8,13 @@ Python is a high-level, interpreted, and dynamically-typed programming language 
 This section covers the foundational elements of Python programming, including data types, expressions, variables, operators, and strings.
 
 - [**Notebook:** `python_basics.ipynb`](python_basics.ipynb)
-- **Description:** Learn about Python's core syntax, how to declare and use variables, perform operations, and use strings.
 
 ## Python Data Structures
 
 Explore Python's built-in data structures, which are essential for organizing and managing collections of data.
+Discover lists, tuples, dictionaries, and sets – their properties, common operations, and when to use each one effectively.
 
 - [**Notebook:** `python_data_structures.ipynb`](python_data_structures.ipynb)
-- **Description:** Discover lists, tuples, dictionaries, and sets – their properties, common operations, and when to use each one effectively.
 
 ## Python Programming Fundamentals
 
