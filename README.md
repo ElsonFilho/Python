@@ -18,10 +18,10 @@ Discover lists, tuples, dictionaries, and sets – their properties, common oper
 
 ## Python Programming Fundamentals
 
-Dive deeper into essential programming concepts in Python, such as functions, modules, and error handling.
+Core Python concepts are presented, beginning with conditional branching and progressing through loops, functions, exception handling, and object-oriented programming with classes.
+It covers controlling program flow, creating reusable code, managing errors, and building structured applications.
 
 - [**Notebook:** `python_programming_fundamentals.ipynb`](python_programming_fundamentals.ipynb)
-- **Description:** Understand how to define and use functions to create reusable code, organize your code into modules, and handle errors gracefully using try-except blocks.
 
 ## Working with Data in Python
 
