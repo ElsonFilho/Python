@@ -25,10 +25,11 @@ It covers controlling program flow, creating reusable code, managing errors, and
 
 ## Working with Data in Python
 
-Learn how to manipulate and analyze data using Python's powerful built-in capabilities and popular libraries.
+How to manipulate and analyze data using Python's powerful built-in capabilities and popular libraries.
+File operations using open(), structured data manipulation with Pandas DataFrames, and numerical computations with NumPy arrays. 
+It covers essential techniques like reading/writing files, data filtering and analysis in Pandas, and array operations like indexing, slicing, and vector math in NumPy, highlighting their roles in data processing and analysis.
 
 - [**Notebook:** `working_with_data.ipynb`](working_with_data.ipynb)
-- **Description:** Explore techniques for reading and writing files, working with different data formats, and leveraging basic data manipulation techniques in Python.
 
 ## APIs and Data Collection
 
