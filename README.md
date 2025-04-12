@@ -33,7 +33,6 @@ It covers essential techniques like reading/writing files, data filtering and an
 
 ## APIs and Data Collection
 
-Discover how to interact with Application Programming Interfaces (APIs) to collect data from external sources.
+Discover how to interact with Application Programming Interfaces (APIs) to collect data from external sources using Python. We'll cover how to use APIs for structured data retrieval, understand HTTP requests, and employ libraries like requests and Beautiful Soup for extracting information from websites. Finally, we'll explore handling various file formats like CSV and JSON with Pandas.
 
 - [**Notebook:** `apis_and_data_collection.ipynb`](apis_and_data_collection.ipynb)
-- **Description:** Learn the fundamentals of making HTTP requests, working with JSON data, and using Python libraries to interact with web APIs for data collection.
